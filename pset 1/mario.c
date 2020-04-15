@@ -18,7 +18,7 @@ int main(void)
  for (int i=1; i<=h; i++)
   {
 
-    for (int k=0; k<h-i; k++)    //To print the spaces before '#'
+    for (int k=0; k<h-i; k++)    //Using h-i to print adequate number of spaces before hash
      {
       printf(" ");
      }
