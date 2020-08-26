@@ -1,2 +1,4 @@
-# CS50-Harvard-2020
-Solutions to problem sets from Harvard University's CS50-2020
+## Harvard University - CS50's Introductio to Computer Science
+
+#### Find the free online course at https://www.edx.org/
+
