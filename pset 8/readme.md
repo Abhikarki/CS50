@@ -1,2 +1,2 @@
 ### PROBLEM SET 8
- Html, CSS, Javascript
+ HTML, CSS, JavaScript
