@@ -1,1 +1,1 @@
-### Texts to check for the mispelled words.
+### Texts to check for the "mispelled" words.
